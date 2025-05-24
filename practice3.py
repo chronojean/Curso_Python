@@ -1,0 +1,5 @@
+apel = input("Apellido: ").title()
+nom = input("Nombre: ").title()
+cargo = input("Cargo: ").title()
+print(f"{cargo}: {nom} {apel}")
+input()
